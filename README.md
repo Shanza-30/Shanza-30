@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi i am Shanza Shakeel 👋
 
 # 👩‍💻 About Me
 I’m an AI & Machine Learning practitioner with a strong focus on building real-world, data-driven solutions. I have hands-on experience working with Machine Learning models, analysis, and applied AI workflows, and I enjoy translating complex data problems into practical, impactful outcomes.  
@@ -37,6 +37,6 @@ GitHub, Jupyter Notebook, VS Code
 I enjoy applying AI to real-world problems and exploring how GenAI and AI agents can make systems smarter and more efficient 🤖🚀  
 
 # 📬 Get in Touch
-- **Email:** your.email@example.com  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+- **Email:** shanzashakeel995@gmail.com 
+- **LinkedIn:** [https://www.linkedin.com/in/shanza-shakeel-4473832a8/]
+- **Portfolio:** [https://github.com/Shanza-30/Portfolio]
