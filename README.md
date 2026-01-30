@@ -22,7 +22,7 @@ Alongside AI/ML, I have working knowledge of frontend development, which allows 
 Python, Machine Learning, Data Analysis, Model Development, Regression, Classification, Clustering, Decision Trees, Random Forest, KNN
 
 ## 🎨 Frontend
-HTML5, CSS3, JavaScript, React (working proficiency)  
+HTML5, CSS3, JavaScript, Bootstrap (working proficiency)  
 
 ## 🧰 Tools
 GitHub, Jupyter Notebook, VS Code  
