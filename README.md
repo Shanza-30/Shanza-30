@@ -1,9 +1,9 @@
 ## Hi i am Shanza Shakeel 👋
 
 # 👩‍💻 About Me
-I’m an AI & Machine Learning practitioner with a strong focus on building real-world, data-driven solutions. I have hands-on experience working with Machine Learning models, analysis, and applied AI workflows, and I enjoy translating complex data problems into practical, impactful outcomes.  
+I’m an AI & Machine Learning practitioner with a strong focus on building real-world, data-driven solutions. Experienced in Python for ML & AI projects, I am skilled in Regression, Classification, Clustering, Decision Trees, Random Forest, and K-Nearest Neighbors (KNN). I enjoy translating complex data problems into practical, impactful outcomes and am actively exploring Generative AI (GenAI), Large Language Models (LLMs), and AI Agents to create smarter, autonomous solutions.
 
-Alongside AI/ML, I have working knowledge of frontend development, which allows me to build functional and user-friendly interfaces to support AI-powered applications.  
+Alongside AI/ML, I have working knowledge of frontend development, which allows me to build functional and user-friendly interfaces to support AI-powered applications. I am pursuing roles as a Data Analyst, Data Scientist, or Machine Learning Engineer to leverage my skills in real-world projects.
 
 # 🌟 What I Do
 - Develop and evaluate Machine Learning solutions for real-world use cases  
@@ -19,7 +19,7 @@ Alongside AI/ML, I have working knowledge of frontend development, which allows 
 # 🛠️ Tech Stack
 
 ## 🤖 AI & Machine Learning
-Python, Machine Learning, Data Analysis, Model Development  
+Python, Machine Learning, Data Analysis, Model Development, Regression, Classification, Clustering, Trees, Random Forest, KNN
 
 ## 🎨 Frontend
 HTML5, CSS3, JavaScript, React (working proficiency)  
