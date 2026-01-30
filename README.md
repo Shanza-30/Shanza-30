@@ -1,16 +1,42 @@
 ## Hi there 👋
 
-<!--
-**Shanza-30/Shanza-30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👩‍💻 About Me
+I’m an AI & Machine Learning practitioner with a strong focus on building real-world, data-driven solutions. I have hands-on experience working with Machine Learning models, analysis, and applied AI workflows, and I enjoy translating complex data problems into practical, impactful outcomes.  
 
-Here are some ideas to get you started:
+Alongside AI/ML, I have working knowledge of frontend development, which allows me to build functional and user-friendly interfaces to support AI-powered applications.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🌟 What I Do
+- Develop and evaluate Machine Learning solutions for real-world use cases  
+- Work extensively with data analysis, model training, and performance evaluation  
+- Apply AI techniques to solve practical, real-life problems  
+- Build and integrate basic to intermediate frontend interfaces for AI applications  
+
+# 📚 Currently Learning
+- Generative AI (GenAI)  
+- Large Language Models (LLMs)  
+- AI Agents and autonomous workflows  
+
+# 🛠️ Tech Stack
+
+## 🤖 AI & Machine Learning
+Python, Machine Learning, Data Analysis, Model Development  
+
+## 🎨 Frontend
+HTML5, CSS3, JavaScript, React (working proficiency)  
+
+## 🧰 Tools
+GitHub, Jupyter Notebook, VS Code  
+
+# 🚀 Current Focus
+- Strengthening expertise in applied AI & Machine Learning  
+- Exploring Generative AI, LLMs, and AI Agents  
+- Building AI solutions with a strong emphasis on real-world applications  
+- Connecting AI models with practical, user-facing systems  
+
+# 🌈 Fun Fact
+I enjoy applying AI to real-world problems and exploring how GenAI and AI agents can make systems smarter and more efficient 🤖🚀  
+
+# 📬 Get in Touch
+- **Email:** your.email@example.com  
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
