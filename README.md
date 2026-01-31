@@ -34,9 +34,9 @@ GitHub, Jupyter Notebook, VS Code
 - Connecting AI models with practical, user-facing systems  
 
 # 🎓 Education
-- [Khawaja Fareed University of Engineering and Information Tecchnology (KFUEIT) RYK
+- [Khawaja Fareed University of Engineering and Information Technology (KFUEIT) RYK ]
 - BS-Information Technology
-- 2023-2027]
+- 2023-2027
 
 # 💼 Projects
 
