@@ -1,6 +1,6 @@
 ## Hi, I am Shanza Shakeel 👋
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 I’m an AI & Machine Learning practitioner with a strong focus on building real-world, data-driven solutions. Experienced in Python for ML & AI projects, I am skilled in Regression, Classification, Clustering, Decision Trees, Random Forest, and K-Nearest Neighbors (KNN). I enjoy translating complex data problems into practical, impactful outcomes and am actively exploring Generative AI (GenAI), Large Language Models (LLMs), and AI Agents to create smarter, autonomous solutions.
 
 Alongside AI/ML, I have working knowledge of frontend development, which allows me to build functional and user-friendly interfaces to support AI-powered applications. I am pursuing roles as a Data Analyst, Data Scientist, or Machine Learning Engineer to leverage my skills in real-world projects.
